@@ -1,0 +1,11 @@
+p,div{
+	color: red;
+	width: 500px;
+	border: 1px solid black;
+	
+}
+
+h3{
+	font-size: 60px;
+	text-align: center;
+}
